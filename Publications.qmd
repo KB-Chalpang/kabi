@@ -10,12 +10,12 @@ title: "Publications"
 
  **Working papers**
 
--   Data simulation for the logistic model.
+-   Data simulation for the logistic regression model.
 
 -   A Bayesian approach to species distribution model with presence-only data.
 
 
-<footer style="background-color: #007BFF; text-align: center; font-size: 0.9em; color: white; padding: 1em 0; margin-top: 1.5em;">
+<footer style="background-color: #007BFF; text-align: center; font-size: 0.9em; color: white; padding: 0.5em 0; margin-top: 1.5em;">
   <p style="font-size: 1em; font-weight: bold;">
     © 2025 <span style="font-size: 1.1em;">Kabiru Abubakari</span> · 
     <a href="mailto:k.abubakari@qmul.ac.uk" style="color: white; text-decoration: none;">Email</a> · 
