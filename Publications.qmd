@@ -1,0 +1,15 @@
+---
+title: "Publications"
+---
+
+-   Dary, S.K., Yendaw, E., Abubakari, K. *et al.* Determinants of Gender Preferences for Candidates Standing in Representative Democratic Elections in Ghana. *J Econ Race Policy* (2025). <https://doi.org/10.1007/s41996-025-00169-3>
+
+-   Issahaku, H., Kabiru, A., & Basit, D. A. (2023). Patterns and causal connections between changes in exchange rates and interest rates in Ghana. *Ghana Journal of Development Studies*, *20*(1), 1-19. <https://doi.org/10.4314/gjds.v20i1.1>
+
+-   Abubakari, K., Al-Mahdawy, Z., Alsulami, H., Garetto, C., Lucero-Azuara, N., Marajh, J., ... & Sansom, R. (2024). Historical Contributions of Different Cultures to Mathematics.
+
+# Working papers
+
+-   Data simulation for the logistic model.
+
+-   A Bayesian approach to species distribution model with presence-only data.

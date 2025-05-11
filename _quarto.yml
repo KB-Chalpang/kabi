@@ -1,0 +1,30 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  navbar:
+    tools:
+      - icon: twitter
+        href: https://x.com/Kabiru91646737
+      - icon: github
+        href: https://github.com/KB-Chalpang
+        
+    background: primary
+    left:
+
+      - href: index.qmd
+        text: Home
+      - href: about.qmd
+        text: About me
+      - Publications.qmd
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+    
+
+editor: visual
+

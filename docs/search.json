@@ -1,0 +1,86 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "",
+    "section": "",
+    "text": "This is a space where I share my work and ideas at the intersection of ecology, statistics, and econometrics. My research focuses on applying Bayesian and probabilistic modeling techniques to real-world data, particularly in the context of ecological systems and environmental change. I’m especially interested in how we can account for uncertainty, bias, and incomplete observations—challenges that are common in both ecological and social science data.\n\n\n\n\n\n\n\n\n\n\n\nA major part of my work involves analyzing citizen science datasets, such as those from iNaturalist and PlantNet, which offer valuable insights into species distributions but require careful statistical treatment due to their presence-only nature. Alongside ecological applications, I also explore econometric approaches to survey data, where issues like sampling design, missing data, and model specification play a critical role in extracting meaningful conclusions. \n\n::::"
+  },
+  {
+    "objectID": "Publications.html",
+    "href": "Publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "Dary, S.K., Yendaw, E., Abubakari, K. et al. Determinants of Gender Preferences for Candidates Standing in Representative Democratic Elections in Ghana. J Econ Race Policy (2025). https://doi.org/10.1007/s41996-025-00169-3\nIssahaku, H., Kabiru, A., & Basit, D. A. (2023). Patterns and causal connections between changes in exchange rates and interest rates in Ghana. Ghana Journal of Development Studies, 20(1), 1-19. https://doi.org/10.4314/gjds.v20i1.1\nAbubakari, K., Al-Mahdawy, Z., Alsulami, H., Garetto, C., Lucero-Azuara, N., Marajh, J., … & Sansom, R. (2024). Historical Contributions of Different Cultures to Mathematics.\n\n\nWorking papers\n\nData simulation for the logistic model.\nA Bayesian approach to species distribution model with presence-only data."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "",
+    "section": "",
+    "text": "I am a PhD student at Queen Mary University of London (QMUL), and also affiliated to the Royal Botanical Gardens (KEW). I work with Dr Silvia Liverani, Professor Andrew Leitch and Dr Ilia J Leitch on the project Bayesian spatial modelling for biodiversity.\nContact details:\nEmail: k.abubakari@qmul.ac.uk\nPhone: +44(0)7440360584"
+  },
+  {
+    "objectID": "Talks.html",
+    "href": "Talks.html",
+    "title": "Talks",
+    "section": "",
+    "text": "Conferences\nResearch Students’ Conference (RSC) in probability and statistics 2024\nPosters\ncoming soon …"
+  },
+  {
+    "objectID": "about.html#research-interest",
+    "href": "about.html#research-interest",
+    "title": "Kabiru Abubakari",
+    "section": "",
+    "text": "I am a PhD student interested in econometrics and statistical ecology. My research focuses on probabilistic modeling and spatial statistics to model complex data. I am working on Bayesian models for presence-only data often encountered in ecology."
+  },
+  {
+    "objectID": "about.html#education",
+    "href": "about.html#education",
+    "title": "Kabiru Abubakari",
+    "section": "Education",
+    "text": "Education\nQueen Mary University of London, England, UK\nPhD candidate in Mathematical sciences | January 2023 - January 2027\nUniversity of Burgundy, Dijon, France\nMaster’s in Data analysis (M1) | 2021 - 2022\nUniversity for Development Studies, Tamale, Ghana\nBA Economics | 2016 - 2020"
+  },
+  {
+    "objectID": "about.html#experience",
+    "href": "about.html#experience",
+    "title": "Kabiru Abubakari",
+    "section": "Experience",
+    "text": "Experience\nComing soon …"
+  },
+  {
+    "objectID": "about.html#teaching",
+    "href": "about.html#teaching",
+    "title": "Kabiru Abubakari",
+    "section": "Teaching",
+    "text": "Teaching\nComing soon …"
+  },
+  {
+    "objectID": "Teaching.html",
+    "href": "Teaching.html",
+    "title": "Teaching",
+    "section": "",
+    "text": "Coming soon …"
+  },
+  {
+    "objectID": "Education.html",
+    "href": "Education.html",
+    "title": "Education",
+    "section": "",
+    "text": "Queen Mary University of London, England, UK\nPhD candidate in Mathematical sciences | January 2023 - January 2027\nUniversity of Burgundy, Dijon, France\nMaster’s in Data analysis (M1) | 2021 - 2022\nUniversity for Development Studies, Tamale, Ghana\nBA Economics | 2016 - 2020"
+  },
+  {
+    "objectID": "Education.html#education",
+    "href": "Education.html#education",
+    "title": "Education",
+    "section": "",
+    "text": "Queen Mary University of London, England, UK\nPhD candidate in Mathematical sciences | January 2023 - January 2027\nUniversity of Burgundy, Dijon, France\nMaster’s in Data analysis (M1) | 2021 - 2022\nUniversity for Development Studies, Tamale, Ghana\nBA Economics | 2016 - 2020"
+  },
+  {
+    "objectID": "index.html#plant-observations-and-field-video",
+    "href": "index.html#plant-observations-and-field-video",
+    "title": "My Image Gallery",
+    "section": "",
+    "text": ":::"
+  }
+]

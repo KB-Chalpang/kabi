@@ -1,0 +1,17 @@
+{
+  "hash": "ed9e93769dbae6e198b6f23ed09045ee",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"About\"\n---\n\n\n\n\n\n\n\n\nI am a PhD student specializing in developing statistical methods for survey data often used in ecology and economics. My research focuses on probabilistic modeling and spatial statistics to better understand complex systems. I am particularly interested in applying Bayesian inference and stochastic processes to analyze environmental and economic data.\n\nI am currently developing probabilistic models for presence-only data, designed to answer questions about the magnitude and effect of environmental variables.\n\n\n\n\n\n\n\n\n\n",
+    "supporting": [
+      "about_files"
+    ],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}
