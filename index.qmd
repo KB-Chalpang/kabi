@@ -35,4 +35,4 @@ This is a space where I share my work and ideas at the intersection of ecology, 
 
 A major part of my work involves analyzing citizen science datasets, such as those from iNaturalist and PlantNet, which offer valuable insights into species distributions but require careful statistical treatment due to their presence-only nature. Alongside ecological applications, I also explore econometric approaches to survey data, where issues like sampling design, missing data, and model specification play a critical role in extracting meaningful conclusions. <!-- Through visualizations, tutorials, and short videos, I aim to make complex statistical methods more accessible and to demonstrate how data, when carefully modeled, can help us better understand the natural and human-influenced world.-->
 :::
-::::
+
