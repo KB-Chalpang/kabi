@@ -1,6 +1,9 @@
 ---
-title: "Publications"
+title: ""
 ---
+<img src="images/title.jpeg" alt="Site banner" style="width: 100%; border-radius: 12px; margin-bottom: 2em;"/>
+
+**Publications**
 
 -   Dary, S.K., Yendaw, E., Abubakari, K. *et al.* Determinants of Gender Preferences for Candidates Standing in Representative Democratic Elections in Ghana. *J Econ Race Policy* (2025). <https://doi.org/10.1007/s41996-025-00169-3>
 
