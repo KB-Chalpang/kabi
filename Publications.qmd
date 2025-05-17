@@ -1,22 +1,23 @@
 ---
 title: ""
 ---
-<img src="images/title.jpeg" alt="Site banner" style="width: 100%; border-radius: 12px; margin-bottom: 2em;"/>
-
+<img src="images/title.jpeg" alt="Site banner"
+     style="width: 100%; height: 80px; object-fit: cover; border-radius: 12px; margin-bottom: 0.3em;" />
+     
 **Publications**
 
--   Dary, S.K., Yendaw, E., Abubakari, K. *et al.* Determinants of Gender Preferences for Candidates Standing in Representative Democratic Elections in Ghana. *J Econ Race Policy* (2025). <https://doi.org/10.1007/s41996-025-00169-3>
+-   Dary, S.K., Yendaw, E., **Abubakari, K.** *et al.* Determinants of Gender Preferences for Candidates Standing in Representative Democratic Elections in Ghana. *J Econ Race Policy* (2025). <https://doi.org/10.1007/s41996-025-00169-3>
 
--   Issahaku, H., Kabiru, A., & Basit, D. A. (2023). Patterns and causal connections between changes in exchange rates and interest rates in Ghana. *Ghana Journal of Development Studies*, *20*(1), 1-19. <https://doi.org/10.4314/gjds.v20i1.1>
+-   Issahaku, H., **Kabiru, A.**, & Basit, D. A. (2023). Patterns and causal connections between changes in exchange rates and interest rates in Ghana. *Ghana Journal of Development Studies*, *20*(1), 1-19. <https://doi.org/10.4314/gjds.v20i1.1>
 
--   Abubakari, K., Al-Mahdawy, Z., Alsulami, H., Garetto, C., Lucero-Azuara, N., Marajh, J., ... & Sansom, R. (2024). Historical Contributions of Different Cultures to Mathematics.
+-   **Abubakari, K.**, Al-Mahdawy, Z., Alsulami, H., Garetto, C., Lucero-Azuara, N., Marajh, J., ... & Sansom, R. (2024). Historical Contributions of Different Cultures to Mathematics.
 
- **Working papers**
+ <!-- **Working papers**
 
 -   Data simulation for the logistic regression model.
 
 -   A Bayesian approach to species distribution model with presence-only data.
-
+-->
 
 <footer style="background-color: #007BFF; text-align: center; font-size: 0.9em; color: white; padding: 0.5em 0; margin-top: 1.5em;">
   <p style="font-size: 1em; font-weight: bold;">
