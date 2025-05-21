@@ -5,10 +5,11 @@ project:
 website:
   navbar:
     tools:
-      - icon: twitter
-        href: https://x.com/Kabiru91646737
+      - icon: linkedin
+        href: https://www.linkedin.com/in/kabiru-abubakari-b69610161
       - icon: github
         href: https://github.com/KB-Chalpang
+
         
     background: primary
     left:
