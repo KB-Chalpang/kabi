@@ -28,7 +28,7 @@ This is a space where I share my work and ideas at the intersection of ecology, 
 
 <video autoplay muted loop playsinline style="width: 48%; border-radius: 12px;">
 
-<source src="videos/sora_video3.mp4" type="video/mp4">
+<source src="videos/.mp4" type=mcmcvideo"video/mp4">
 
 </video>
 
