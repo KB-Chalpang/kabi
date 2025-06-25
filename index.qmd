@@ -9,9 +9,11 @@ format:
 ---
 
 <!--<img src="images/title.jpeg" alt="Site banner" style="width: 100%; border-radius: 12px; margin-bottom: 0em;"/>-->
+
+```{=html}
 <img src="images/title.jpeg" alt="Site banner"
      style="width: 100%; height: 80px; object-fit: cover; border-radius: 12px; margin-bottom: 0em;" />
-
+```
 
 ::: {style="text-align: justify; font-size: 1.1em; line-height: 1.6; margin-bottom: 2em;"}
 <!--Welcome to my website, a space where I share my work and ideas at the intersection of ecology, statistics, and econometrics. My research focuses on applying Bayesian and probabilistic modeling techniques to real-world data, particularly in the context of ecological systems and environmental change.-->
@@ -28,7 +30,7 @@ This is a space where I share my work and ideas at the intersection of ecology, 
 
 <video autoplay muted loop playsinline style="width: 48%; border-radius: 12px;">
 
-<source src="videos/" type="video/mp4">
+<source src="videos/mcmcvideo.mp4" type="video/mp4">
 
 </video>
 
@@ -38,17 +40,15 @@ This is a space where I share my work and ideas at the intersection of ecology, 
 <!--These videos demonstrate key aspects of my work. One focuses on modeling species distributions using citizen science data like iNaturalist, highlighting the challenges of presence-only datasets. The other illustrates how Bayesian techniques can be applied in dynamic and uncertain environments—offering deeper insights into ecological processes and policy-relevant scenarios. I also explore connections with econometrics, particularly in survey data analysis, where many statistical challenges overlap.-->
 
 A major part of my work involves analyzing citizen science datasets, such as those from iNaturalist and PlantNet, which offer valuable insights into species distributions but require careful statistical treatment due to their presence-only nature. Alongside ecological applications, I also explore econometric approaches to survey data, where issues like sampling design, missing data, and model specification play a critical role in extracting meaningful conclusions. <!-- Through visualizations, tutorials, and short videos, I aim to make complex statistical methods more accessible and to demonstrate how data, when carefully modeled, can help us better understand the natural and human-influenced world.-->
-
 :::
 
 <footer style="background-color: #007BFF; text-align: center; font-size: 0.9em; color: white; padding: 0.5em 0; margin-top: 1.5em;">
-  <p style="font-size: 1em; font-weight: bold;">
-    © 2025 <span style="font-size: 1.1em;">Kabiru Abubakari</span> · 
-    <a href="mailto:k.abubakari@qmul.ac.uk" style="color: white; text-decoration: none;">Email</a> · 
-    <a href="https://www.qmul.ac.uk/" target="_blank" style="color: white; font-size: 1em; text-decoration: none;">QMUL</a> · 
-    <a href="https://www.kew.org/" target="_blank" style="color: white; font-size: 1em; text-decoration: none;">Kew Gardens</a>
-    <span style="margin-left: 6em; text-align: right; font-style: italic; font-size: 1em;">
-      Don't lose hope, nor be sad.
-    </span>
-  </p>
+
+<p style="font-size: 1em; font-weight: bold;">
+
+© 2025 [Kabiru Abubakari]{style="font-size: 1.1em;"} · <a href="mailto:k.abubakari@qmul.ac.uk" style="color: white; text-decoration: none;">Email</a> · <a href="https://www.qmul.ac.uk/" target="_blank" style="color: white; font-size: 1em; text-decoration: none;">QMUL</a> · <a href="https://www.kew.org/" target="_blank" style="color: white; font-size: 1em; text-decoration: none;">Kew Gardens</a> [ Don't lose hope, nor be sad. ]{style="margin-left: 6em; text-align: right; font-style: italic; font-size: 1em;"}
+
+</p>
+
 </footer>
+::::
