@@ -58,4 +58,3 @@ A major part of my work involves analyzing citizen science datasets, such as tho
 </p>
 
 </footer>
-
