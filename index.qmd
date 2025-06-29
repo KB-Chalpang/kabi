@@ -30,7 +30,7 @@ This is a space where I share my work and ideas at the intersection of ecology, 
 
 <video autoplay muted loop playsinline style="width: 48%; border-radius: 12px;">
 
-<source src="videos/mcmcvideo.mp4" type="video/mp4">
+<source src="videos/mcmcvideo2.mp4" type="video/mp4">
 
 </video>
 
