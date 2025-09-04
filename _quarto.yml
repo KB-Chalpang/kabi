@@ -14,7 +14,7 @@ website:
     background: primary
     left:
 
-      - href: index.qmd
+      - href: home.qmd
         text: Home
       - href: about.qmd
         text: About me
