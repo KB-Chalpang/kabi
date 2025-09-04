@@ -35,7 +35,7 @@ My academic journey began with a degree in Economics at the [University for Deve
 
 I went on to pursue a Master’s degree at the [University of Burgundy Europe (UBE)](https://www.ube.fr/en/home/) in Dijon, France. During this time, I also completed a two-month internship at [ECONRES](https://econresuam.wordpress.com/interns/) at the [Autonomous University of Madrid (AUM)](https://www.uam.es/uam/inicio) in Madrid, Spain. There, I worked with [Professor Coro Chasco](https://corochasco.wordpress.com/) and [Professor Julie Le Gallo](https://sites.google.com/site/legallopage/home) on structural equation modelling — an experience that further deepened my interest in research at the intersection of economics and statistics.  
 
-My Ph.D work brings together statistical modelling, and ecology to develop methods that better capture uncertainty in biodiversity data. I am especially interested in Bayesian approaches, spatial statistics, and their applications in understanding economic and ecological data.  
+My Ph.D work brings together statistical modelling, and ecology to develop methods that better capture uncertainty in biodiversity data. I am especially interested in Bayesian approaches, spatial statistics, and their applications in understanding economic, ecological and health data.  
 
 <!--
 :::: {style="display: flex; justify-content: space-between; gap: 20px; margin-bottom: 2em;"}
