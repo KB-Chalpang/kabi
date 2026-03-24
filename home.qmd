@@ -18,7 +18,7 @@ format:
 ::: {style="text-align: justify; font-size: 1.1em; line-height: 1.6; margin-bottom: 2em;"}
 <!--Welcome to my website, a space where I share my work and ideas at the intersection of ecology, statistics, and econometrics. My research focuses on applying Bayesian and probabilistic modeling techniques to real-world data, particularly in the context of ecological systems and environmental change.-->
 
-This is a space where I share my work and ideas at the intersection of ecology, statistics, and econometrics. My research focuses on applying Bayesian and probabilistic modeling techniques to real-world data, particularly in the context of ecological systems and environmental change. I’m especially interested in how we can account for uncertainty, bias, and incomplete observations, and other challenges that are common in both ecological and social science data.
+This is a space where I share my work and ideas at the intersection of ecology, statistics, and econometrics. My research focuses on applying Bayesian and probabilistic modeling techniques to real-world data, particularly in the context of ecological systems and environmental change. I’m especially interested in how we can account for uncertainty, bias, and incomplete observations, and other challenges that are common to both ecological and social science data.
 :::
 
 :::: {style="display: flex; justify-content: space-between; gap: 20px; margin-bottom: 2em;"}
