@@ -20,6 +20,8 @@ website:
         text: About me
       - href: Publications.qmd
         text: Publications
+      - href: cv.qmd
+        text: CV
 
 format:
   html:
