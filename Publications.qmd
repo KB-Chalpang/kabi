@@ -6,6 +6,9 @@ title: ""
      
 **Publications**
 
+-   **Abubakari, K.**, Matechou, E., Marie C. Henniges, Leitch, I.J., Leitch, A.R., & Liverani, S. (2026). False  Positives, False Negatives, and the Detection-Only Problem: A Hierarchical Model for Species Occurrence with Observation Error. *arXiv preprint arXiv:2606.26323*. 
+<https://doi.org/10.48550/arXiv.2606.26323>
+
 -   Dary, S.K., Yendaw, E., **Abubakari, K.** *et al.* Determinants of Gender Preferences for Candidates Standing in Representative Democratic Elections in Ghana. *J Econ Race Policy* (2025). <https://doi.org/10.1007/s41996-025-00169-3>
 
 -   Issahaku, H., **Kabiru, A.**, & Basit, D. A. (2023). Patterns and causal connections between changes in exchange rates and interest rates in Ghana. *Ghana Journal of Development Studies*, *20*(1), 1-19. <https://doi.org/10.4314/gjds.v20i1.1>
