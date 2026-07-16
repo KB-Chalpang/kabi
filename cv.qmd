@@ -4,7 +4,7 @@ title: ""
 
 <!-- <iframe src="cv.pdf" width="100%" height="850px" style="border: none;"></iframe> -->
 
-[Download my CV](cv.pdf)
+[My CV](cv.pdf)
 
 ---
 
