@@ -9,11 +9,17 @@ title: ""
 -   **Abubakari, K.**, Matechou, E., Henniges, M.C., Leitch, I.J., Leitch, A.R., & Liverani, S. (2026). False  Positives, False Negatives, and the Detection-Only Problem: A Hierarchical Model for Species Occurrence with Observation Error. *arXiv preprint arXiv:2606.26323*. 
 <https://doi.org/10.48550/arXiv.2606.26323>
 
+-  **Abubakari, K.** & Liverani, S. (2026). Data generation for the logistic regression model under controlled conditions. *arXiv. preprint arXiv:2610.12381*. <https://doi.org/10.48550/arXiv.2610.12381>
+
 -   Dary, S.K., Yendaw, E., **Abubakari, K.** *et al.* Determinants of Gender Preferences for Candidates Standing in Representative Democratic Elections in Ghana. *J Econ Race Policy* (2025). <https://doi.org/10.1007/s41996-025-00169-3>
 
--   Issahaku, H., **Kabiru, A.**, & Basit, D. A. (2023). Patterns and causal connections between changes in exchange rates and interest rates in Ghana. *Ghana Journal of Development Studies*, *20*(1), 1-19. <https://doi.org/10.4314/gjds.v20i1.1>
+-   Issahaku, H., **Abubakari, K.**, & Basit, D. A. (2023). Patterns and causal connections between changes in exchange rates and interest rates in Ghana. *Ghana Journal of Development Studies*, *20*(1), 1-19. <https://doi.org/10.4314/gjds.v20i1.1>
 
 **Other work(s)**
+
+- Henniges, M.C., **Abubakari, K.**, Liverani, S., Antonelli, A.,
+  Leitch, I.J., & Leitch, A.R. (2026). Plant genome sizes, functional traits and Ellenberg values indicate that nitrogen
+  deposition is a driver of changing species area trends across Britain over 30 years. *Submitted to the Journal of Ecology.*
 
 -   **Abubakari, K.**, Al-Mahdawy, Z., Alsulami, H., Garetto, C., Lucero-Azuara, N., Marajh, J., ... & Sansom, R. (2024). Historical Contributions of Different Cultures to Mathematics.
 
