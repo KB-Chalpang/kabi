@@ -1,42 +1,33 @@
 ---
-title: ""
+title: "Publications"
+description: "Publications and other research by statistician and economist Kabiru Abubakari."
 ---
-<img src="images/title.jpeg" alt="Site banner"
-     style="width: 100%; height: 80px; object-fit: cover; border-radius: 12px; margin-bottom: 0.3em;" />
-     
-**Publications**
 
--   **Abubakari, K.**, Matechou, E., Henniges, M.C., Leitch, I.J., Leitch, A.R., & Liverani, S. (2026). False  Positives, False Negatives, and the Detection-Only Problem: A Hierarchical Model for Species Occurrence with Observation Error. *arXiv preprint arXiv:2606.26323*. 
-<https://doi.org/10.48550/arXiv.2606.26323>
+<div class="page-intro page-intro-compact">
+<h1>Publications</h1>
+<p class="page-dek">Research on observation error, statistical modelling, and applications across ecology, economics, and related fields.</p>
+</div>
 
--  **Abubakari, K.** & Liverani, S. (2026). Data generation for the logistic regression model under controlled conditions. *arXiv. preprint arXiv:2610.12381*. <https://doi.org/10.48550/arXiv.2610.12381>
+<section class="publication-section">
+<div class="section-marker">01</div>
+<div>
+<h2>Publications</h2>
+<ol class="publication-list">
+<li><strong>Abubakari, K.</strong>, Matechou, E., Henniges, M.C., Leitch, I.J., Leitch, A.R., &amp; Liverani, S. (2026). False Positives, False Negatives, and the Detection-Only Problem: A Hierarchical Model for Species Occurrence with Observation Error. <em>arXiv preprint arXiv:2606.26323</em>. <a href="https://doi.org/10.48550/arXiv.2606.26323">doi.org/10.48550/arXiv.2606.26323</a></li>
+<li><strong>Abubakari, K.</strong> &amp; Liverani, S. (2026). Data generation for the logistic regression model under controlled conditions. <em>arXiv preprint arXiv:2610.12381</em>. <a href="https://doi.org/10.48550/arXiv.2610.12381">doi.org/10.48550/arXiv.2610.12381</a></li>
+<li>Dary, S.K., Yendaw, E., <strong>Abubakari, K.</strong> <em>et al.</em> (2025). Determinants of Gender Preferences for Candidates Standing in Representative Democratic Elections in Ghana. <em>J Econ Race Policy</em>. <a href="https://doi.org/10.1007/s41996-025-00169-3">doi.org/10.1007/s41996-025-00169-3</a></li>
+<li>Issahaku, H., <strong>Abubakari, K.</strong>, &amp; Basit, D. A. (2023). Patterns and causal connections between changes in exchange rates and interest rates in Ghana. <em>Ghana Journal of Development Studies</em>, <em>20</em>(1), 1-19. <a href="https://doi.org/10.4314/gjds.v20i1.1">doi.org/10.4314/gjds.v20i1.1</a></li>
+</ol>
+</div>
+</section>
 
--   Dary, S.K., Yendaw, E., **Abubakari, K.** *et al.* Determinants of Gender Preferences for Candidates Standing in Representative Democratic Elections in Ghana. *J Econ Race Policy* (2025). <https://doi.org/10.1007/s41996-025-00169-3>
-
--   Issahaku, H., **Abubakari, K.**, & Basit, D. A. (2023). Patterns and causal connections between changes in exchange rates and interest rates in Ghana. *Ghana Journal of Development Studies*, *20*(1), 1-19. <https://doi.org/10.4314/gjds.v20i1.1>
-
-**Other work(s)**
-
-- Henniges, M.C., **Abubakari, K.**, Liverani, S., Antonelli, A.,
-  Leitch, I.J., & Leitch, A.R. (2026). Plant genome sizes, functional traits and Ellenberg values indicate that nitrogen
-  deposition is a driver of changing species area trends across Britain over 30 years. *Submitted to the Journal of Ecology.*
-
--   **Abubakari, K.**, Al-Mahdawy, Z., Alsulami, H., Garetto, C., Lucero-Azuara, N., Marajh, J., ... & Sansom, R. (2024). Historical Contributions of Different Cultures to Mathematics.
-
- <!-- **Working papers**
-
--   Data simulation for the logistic regression model.
-
--   A Bayesian approach to species distribution model with presence-only data.
--->
-
-<footer style="background-color: #007BFF; text-align: center; font-size: 0.9em; color: white; padding: 0.5em 0; margin-top: 1.5em;">
-
-<p style="font-size: 1em; font-weight: bold;">
-
-© 2025 [Kabiru Abubakari]{style="font-size: 1.1em;"} · <a href="mailto:k.abubakari@qmul.ac.uk" style="color: white; text-decoration: none;">Email</a> · <a href="https://www.qmul.ac.uk/" target="_blank" style="color: white; font-size: 1em; text-decoration: none;">QMUL</a> · <a href="https://www.kew.org/" target="_blank" style="color: white; font-size: 1em; text-decoration: none;">Kew Gardens</a> [ Don't lose hope, nor be sad. ]{style="margin-left: 6em; text-align: right; font-style: italic; font-size: 1em;"}
-
-</p>
-
-</footer>
-
+<section class="publication-section">
+<div class="section-marker">02</div>
+<div>
+<h2>Other work(s)</h2>
+<ol class="publication-list">
+<li>Henniges, M.C., <strong>Abubakari, K.</strong>, Liverani, S., Antonelli, A., Leitch, I.J., &amp; Leitch, A.R. (2026). Plant genome sizes, functional traits and Ellenberg values indicate that nitrogen deposition is a driver of changing species area trends across Britain over 30 years. <em>Submitted to the Journal of Ecology.</em></li>
+<li><strong>Abubakari, K.</strong>, Al-Mahdawy, Z., Alsulami, H., Garetto, C., Lucero-Azuara, N., Marajh, J., ... &amp; Sansom, R. (2024). Historical Contributions of Different Cultures to Mathematics.</li>
+</ol>
+</div>
+</section>

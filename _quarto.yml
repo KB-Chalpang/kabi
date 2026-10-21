@@ -1,36 +1,34 @@
 project:
   type: website
   output-dir: docs
+  render:
+    - index.qmd
+    - about.qmd
+    - Publications.qmd
+    - cv.qmd
 
 website:
+  title: "Kabiru Abubakari"
+  search: false
   navbar:
-    tools:
-      - icon: linkedin
-        href: https://www.linkedin.com/in/kabiru-abubakari-b69610161
-      - icon: github
-        href: https://github.com/KB-Chalpang
-
-        
-    background: primary
+    pinned: true
     left:
-
-      - href: home.qmd
-        text: Home
-      - href: about.qmd
-        text: About me
+      - href: index.qmd
+        text: Profile
       - href: Publications.qmd
         text: Publications
       - href: cv.qmd
         text: CV
-        target: _blank
-        
 
 format:
   html:
     theme: cosmo
     css: styles.css
-    toc: true
-    
+    toc: false
+    link-external-newwindow: true
+    email-obfuscation: javascript
+    page-footer:
+      left: "Get in touch · k.abubakari@qmul.ac.uk"
+      right: "© 2025 Kabiru Abubakari"
 
 editor: visual
-

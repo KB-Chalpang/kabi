@@ -1,10 +1,10 @@
 ---
-title: ""
+title: "Curriculum Vitae"
+description: "Download the curriculum vitae of statistician and economist Kabiru Abubakari."
 ---
 
-<!-- <iframe src="cv.pdf" width="100%" height="850px" style="border: none;"></iframe> -->
-
-[My CV](cv.pdf)
-
----
-
+<div class="cv-shell">
+<p class="eyebrow">CV</p>
+<h1>Curriculum vitae</h1>
+<a class="button button-primary" href="cv.pdf">Download the CV <span aria-hidden="true">↓</span></a>
+</div>

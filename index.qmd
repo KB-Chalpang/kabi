@@ -1,0 +1,42 @@
+---
+title: "Statistician & Economist"
+description: "Kabiru Abubakari is a statistician and economist completing a PhD in Statistics, with interests spanning Bayesian analysis, econometrics, environmental modelling, and health data modelling."
+page-layout: article
+---
+
+<header class="profile-header">
+<div class="profile-intro">
+<p class="eyebrow">Probabilistic modelling · uncertainty · applications</p>
+<h1>Statistician &amp; Economist</h1>
+<p class="lead">I develop and apply statistical models to understand complex data and quantify uncertainty.</p>
+<p class="supporting">Completing a PhD in Statistics, with Bayesian applications in ecology and experience across economics, environmental and health data.</p>
+<nav class="contact-links" aria-label="Contact and professional links">
+<a href="about.html">Background <span aria-hidden="true">↗</span></a>
+<a href="https://scholar.google.com/citations?user=k4ZuUI4AAAAJ&amp;hl=en">Google Scholar <span aria-hidden="true">↗</span></a>
+<a href="https://github.com/KB-Chalpang">GitHub <span aria-hidden="true">↗</span></a>
+<a href="mailto:k.abubakari@qmul.ac.uk">Email <span aria-hidden="true">↗</span></a>
+</nav>
+</div>
+<figure class="portrait-block">
+<img src="profile_pic.jpeg" alt="Portrait of Kabiru Abubakari" />
+<figcaption>Kabiru Abubakari</figcaption>
+</figure>
+</header>
+
+<section class="research-focus" aria-labelledby="research-focus-title">
+<h2 id="research-focus-title">Research focus</h2>
+<div class="focus-grid">
+<article><span class="focus-number">01</span><div><h3>Bayesian inference</h3><p>Learning from data under uncertainty.</p></div></article>
+<article><span class="focus-number">02</span><div><h3>Econometric modelling</h3><p>Understanding economic data.</p></div></article>
+<article><span class="focus-number">03</span><div><h3>Applied statistics</h3><p>Ecology, environment and health.</p></div></article>
+</div>
+</section>
+
+<section class="selected-work" aria-labelledby="selected-work-title">
+<div class="work-list">
+<h2 id="selected-work-title">Selected work</h2>
+<a class="work-row" href="https://doi.org/10.48550/arXiv.2606.26323"><span><strong>False Positives, False Negatives, and the Detection-Only Problem</strong><small>Abubakari, Matechou, Henniges, Leitch, Leitch &amp; Liverani · arXiv · 2026</small></span><span class="read-link">Read ↗</span></a>
+<a class="work-row" href="https://doi.org/10.48550/arXiv.2610.12381"><span><strong>Data generation for the logistic regression model under controlled conditions</strong><small>Abubakari &amp; Liverani · arXiv · 2026</small></span><span class="read-link">Read ↗</span></a>
+<a class="all-work" href="Publications.html">View all publications ↗</a>
+</div>
+</section>
